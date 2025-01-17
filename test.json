@@ -1,0 +1,129 @@
+{
+    "roots": {
+      "bookmark_bar": {
+        "children": [
+          {
+            "date_added": "13322494899000000",
+            "date_modified": "13322494899000000",
+            "id": "1",
+            "name": "Design Resources",
+            "type": "folder",
+            "children": [
+              {
+                "date_added": "13322494899000000",
+                "id": "2",
+                "name": "Tailwind CSS - A Utility-First CSS Framework",
+                "url": "https://tailwindcss.com",
+                "meta_info": {
+                  "Description": "A highly customizable, low-level CSS framework"
+                }
+              },
+              {
+                "date_added": "13322494899000000",
+                "id": "3",
+                "name": "Dribbble - Design Inspiration",
+                "url": "https://dribbble.com",
+                "meta_info": {
+                  "Description": "Discover the world's top designers & creatives"
+                }
+              }
+            ]
+          },
+          {
+            "date_added": "13322494899000000",
+            "id": "4",
+            "name": "GitHub - Where the world builds software",
+            "url": "https://github.com",
+            "meta_info": {
+              "Description": "GitHub is where over 100 million developers shape the future of software"
+            }
+          },
+          {
+            "date_added": "13322494899000000",
+            "id": "5",
+            "name": "Stack Overflow - Developer Community",
+            "url": "https://stackoverflow.com",
+            "meta_info": {
+              "Description": "Where developers learn, share, & build careers"
+            }
+          }
+        ]
+      },
+      "other": {
+        "children": [
+          {
+            "date_added": "13322494899000000",
+            "date_modified": "13322494899000000",
+            "id": "6",
+            "name": "Development Tools",
+            "type": "folder",
+            "children": [
+              {
+                "date_added": "13322494899000000",
+                "id": "7",
+                "name": "VS Code - Code Editing. Redefined",
+                "url": "https://code.visualstudio.com",
+                "meta_info": {
+                  "Description": "Free. Built on open source. Runs everywhere."
+                }
+              },
+              {
+                "date_added": "13322494899000000",
+                "id": "8",
+                "name": "Docker - Containerization Platform",
+                "url": "https://www.docker.com",
+                "meta_info": {
+                  "Description": "Accelerate how you build, share, and run applications"
+                }
+              }
+            ]
+          },
+          {
+            "date_added": "13322494899000000",
+            "date_modified": "13322494899000000",
+            "id": "9",
+            "name": "Learning Resources",
+            "type": "folder",
+            "children": [
+              {
+                "date_added": "13322494899000000",
+                "id": "10",
+                "name": "freeCodeCamp - Learn to Code",
+                "url": "https://www.freecodecamp.org",
+                "meta_info": {
+                  "Description": "Learn to code — for free"
+                }
+              },
+              {
+                "date_added": "13322494899000000",
+                "id": "11",
+                "name": "MDN Web Docs",
+                "url": "https://developer.mozilla.org",
+                "meta_info": {
+                  "Description": "Resources for developers, by developers"
+                }
+              }
+            ]
+          },
+          {
+            "date_added": "13322494899000000",
+            "id": "12",
+            "name": "CodePen - Social Development Environment",
+            "url": "https://codepen.io",
+            "meta_info": {
+              "Description": "The best place to build, test, and discover front-end code"
+            }
+          },
+          {
+            "date_added": "13322494899000000",
+            "id": "13",
+            "name": "Dev.to - The Developer Community",
+            "url": "https://dev.to",
+            "meta_info": {
+              "Description": "A constructive and inclusive social network for developers"
+            }
+          }
+        ]
+      }
+    }
+  }
