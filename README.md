@@ -19,6 +19,8 @@ A web application built with CodeIgniter 4 that allows users to import and manag
 - Error handling for file uploads
 - Responsive design using Tailwind CSS
 
+### Test data included ./test.json
+
 ## Screenshots
 
 ### Bookmarks Index Page
